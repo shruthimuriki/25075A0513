@@ -1,0 +1,22 @@
+/* .footer {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+} */
+.footer {
+  background: #2c3e50;
+  color: white;
+  text-align: center;
+  padding: 1px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #333;   /* example color */
+  color: #fff;        /* example text color */
+  text-align: center;
+  padding: 10px;
+}
